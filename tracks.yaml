@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:tgenovese/nmea_msgs-release.git
 tracks:
   crystal:
     actions:
